@@ -24,7 +24,7 @@ Plataforma de gestión para gimnasios: alumnos, pagos, comunicaciones, reportes 
 - Notificaciones por WhatsApp y email
 
 ### Conexión 360 — Landing page del estudio
-Sitio institucional en **React 18 + Vite**, deployado en Hostinger. · [Código](https://github.com/barbaracortez/pagina-web.conexion.360)
+Sitio institucional en **React 18 + Vite**, responsive. · [Demo](https://pagina-web-conexion-360.vercel.app) · [Código](https://github.com/barbaracortez/pagina-web.conexion.360)
 
 ### Power Apps + Azure
 App de negocio desarrollada en **Power Apps** integrada con servicios de **Azure** para un cliente. *(Código privado del cliente)*
