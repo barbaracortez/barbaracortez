@@ -25,6 +25,12 @@ Plataforma de gestión para gimnasios: alumnos, pagos, comunicaciones, reportes 
 - Backend en **NestJS** con **PostgreSQL + Prisma**, deploy en Railway
 - Notificaciones por WhatsApp y email
 
+### NgStore — [Ver demo](https://tienda-en-linea-96hm.vercel.app/)
+E-commerce en **Angular 19** con catálogo, búsqueda, detalle de producto y carrito.
+- Componentes standalone, rutas con carga diferida, **Signals** para el estado y **RxJS** para HTTP
+- Filtros y búsqueda guardados en la URL; carrito persistente en el navegador
+- **Tailwind CSS**, accesible por teclado, tests con **Jasmine y Karma**, ESLint y Prettier · [Código](https://github.com/barbaracortez/tienda-en-linea)
+
 ### Nexo CRM — [Ver demo](https://barbaracortez.github.io/dashboard-app/)
 Panel comercial para equipos de ventas: métricas del mes, clientes, leads y pipeline de oportunidades.
 - **React + Vite** con **React Router** y gráficos con **Recharts**
